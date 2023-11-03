@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VoiceRecognasition</string>
+    <string name="kws_caption">To start demonstration say \"start\".</string>
+    <string name="menu_caption">Say \"send email\", \"write a note\" or \"play song\" to choose what i do for you.</string>
+    <string name="worlds_email_search">To try recognition of send email : \n -firstly say the sender email name and end your speech with email subject.
+                                                                          \n -secondly say the title of the email and end your speech with email body.
+                                                                          \n -lastly say the title of the email and end your speech with confirmation.</string>
+    <string name="worlds_note_search">To try recognition of write a note say like this : \"sunny spells on Wednesday\"\n
+        and end this speech with \"weather\".</string>
+    <string name="phone_caption">To try phonetic recognition say anything.</string>
+
+</resources>
